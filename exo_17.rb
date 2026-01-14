@@ -10,4 +10,3 @@ puts "Voici la pyramide :"
   hashes = 2 * i - 1
   puts (" " * spaces) + ("#" * hashes)
 end
-

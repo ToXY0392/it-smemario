@@ -8,4 +8,3 @@ puts "Voici la pyramide :"
 1.upto(etages) do |i|
   puts "#" * i
 end
-
